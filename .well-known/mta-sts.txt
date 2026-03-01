@@ -1,4 +1,6 @@
 version: STSv1
 mode: testing
 mx: *.hotmail.com
+mx: *.outlook.com
+mx: *.olc.protection.outlook.com
 max_age: 86400
